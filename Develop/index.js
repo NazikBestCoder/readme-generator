@@ -60,17 +60,11 @@ const questions = [
   },
   {
     type: "input",
-    message: "What is the current year?",
-    name: "year",
+    message: "What is the current date?",
+    name: "date",
     validate: confirmLength
   },
-  {
-    type: "input",
-    message: "What is the name of the license?",
-    name: "fullName",
-    validate: confirmLength
-  },
-
+  
   {
     type: "input",
     message: "How can users contribute to this project?",
@@ -88,7 +82,7 @@ const questions = [
   {
     type: "input",
     message: "What is your contact email address?",
-    name: "email",
+    name: "contact",
     validate: confirmEmail
   },
 

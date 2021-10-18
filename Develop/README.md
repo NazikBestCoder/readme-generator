@@ -1,7 +1,7 @@
-# s
+# Professional README Generator
 ![MIT license badge](https://img.shields.io/badge/license-MIT-brightgreen)
 ## Description
-s
+This is a command-line application that dynamically generates a professional readme.md file from user's input  using the Inquirer package.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,12 +10,12 @@ s
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-s
+All files have to replicated to create a readme generator
 ## Usage
-s
+users can use it
 ## License
 MIT License
-      Copyright (c) d d'd
+      Copyright (c) undefined undefined
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
       in the Software without restriction, including without limitation the rights
@@ -34,6 +34,8 @@ MIT License
 ## How to Contribute
 undefined
 ## Tests
-d
+no tests were used
 ## Questions
-If you have any question you can view my GitHub Profile [here](https://www.github.com/d), or you can contact me here: @
+If you have any question you can view my GitHub Profile [here](https://www.github.com/NazikBestCoder), or you can contact me here: undefined
+
+URL 
