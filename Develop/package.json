@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazikBestCoder/readme-generator.git"
+  },
+  "author": "Nazik Askarbekkyzy",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "bugs": {
+    "url": "https://github.com/NazikBestCoder/readme-generator/issues"
+  },
+  "homepage": "https://github.com/NazikBestCoder/readme-generator#readme"
+}
